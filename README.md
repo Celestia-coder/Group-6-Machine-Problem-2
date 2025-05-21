@@ -1,7 +1,7 @@
 # Machine Problem 2 - Brute Force Algorithms: Review and Implementation
 
 
-This repository contains the source code for Machine Problem 2, completed by **Group 6** . The project focuses on understanding brute-force algorithms and providing optimized versions of the following algorithms: 
+This repository contains the source code for Machine Problem 2, completed by **Group 6** from BSCS 2-4. The project focuses on understanding brute-force algorithms and providing optimized versions of the following algorithms: 
 
 1. Selection Sort
 2. Bubble Sort
